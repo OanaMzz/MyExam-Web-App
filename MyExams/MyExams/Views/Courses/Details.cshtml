@@ -1,0 +1,83 @@
+﻿@model MyExams.ViewModels.CourseVM
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2> Course Details</h2>
+
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Teacher.TeacherTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Teacher.TeacherTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Teacher.TeacherFirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Teacher.TeacherFirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Teacher.TeacherLastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Teacher.TeacherLastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Duration)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Duration)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Credits)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Credits)
+        </dd>
+    </dl>
+
+    <hr>
+
+</div>
+
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CourseId }, new { @class = "btn btn-success" }) 
+    <input type="button" id="exams" value="Show All Exams" class="btn btn-primary" />
+</p>
+
+<div id="result">
+</div>
+
+@Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-default" })
+
+@section Scripts{
+    <script>
+        $("#exams").click(function () {
+            $("#result").load("@Url.Action("GetExamsForCourse", "Courses", new { id = Model.CourseId })");
+        });
+    </script>
+}

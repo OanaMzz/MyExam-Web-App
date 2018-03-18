@@ -1,0 +1,52 @@
+﻿@model IEnumerable<MyExams.ViewModels.TeacherVM>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="tableTitle">Teachers Index</h2>
+
+<p>
+    <a href="@Url.Action("Create", "Teachers")" class="btn btn-success">
+        Create    <span class="glyphicon glyphicon-plus"></span>
+    </a>
+</p>
+
+<p>
+    Find: @Html.TextBox("SearchString", null, new { @id = "searchTeacher" })
+
+    <button type="submit" class="btn btn-default" value="Search"><span class="glyphicon glyphicon-search"></span></button>
+    @Html.ActionLink("Reset Filter", "Index", null , new { @class = "btn btn-default" })
+</p>
+
+
+<br />
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 col-sm-6">
+                <div class="teachers-div text-center">
+                    <header></header>
+                    <h3>
+                        @Html.DisplayFor(modelItem => item.TeacherFullName)
+                    </h3>
+
+
+                    <h4>
+                        @Html.DisplayFor(modelItem => item.TeacherTitle)
+                    </h4>
+                    <div class="col-md-12 teacherFooter">
+                        @Html.ActionLink("Edit", "Edit", new { id = item.TeacherId }, new { @class = "btn btn-success btn-sm btn-green-modified" })
+                        @Html.ActionLink("Details", "Details", new { id = item.TeacherId }, new { @class = "btn btn-sm btn-primary" })
+                        @Html.ActionLink("Delete", "Delete", new { id = item.TeacherId }, new { @class = "btn btn-sm btn-danger" })
+                    </div>
+                </div>
+            </div>
+
+        }
+    </div>
+</div>
+<br /><br />
+

@@ -1,0 +1,65 @@
+﻿@model List<MyExams.Models.ExamsForCourse>
+
+@{
+    <div style="height:30px;">
+    </div>
+    if (!Model.Any())
+    {
+        <h4>No Exams for this Course</h4>
+    }
+    else
+    {
+        <h2 class="tableTitle">Exams for Course</h2>
+        <div class="table-responsive">
+
+
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().Date)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().Student.StudentFullName)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().StudentProfile.Specialization)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().StudentProfile.YearOfStudy)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().Grade)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+    {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Date)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Student.StudentFullName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StudentProfile.Specialization)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StudentProfile.YearOfStudy)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Grade)
+                    </td>
+                    <td></td>
+                </tr>
+}
+                </tbody>
+
+            </table>
+        </div>
+    }
+}
+
