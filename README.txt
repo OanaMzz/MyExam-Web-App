@@ -35,5 +35,5 @@
 ----------------------------------------------------------------------------------
     
 *** Project developed under the curriculum of the Informal School of IT, Cluj-napoca, Romania 2018 ***
-*** Please refrain from copy-pasting entire sections of the project. Use it as a reference or try to improve the code to make a better extended version of it ***
+*** Please refrain from copy-pasting entire sections of the project. Use it as a reference or improve the code to make a better extended version ***
     
