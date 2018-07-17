@@ -1,0 +1,87 @@
+﻿@model  PagedList.IPagedList<MyExams.ViewModels.ExamDetailsVM>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="tableTitle">Exams Index</h2>
+
+<p>
+    <a href="@Url.Action("Create", "Exams1")" class="btn btn-success">
+        Create    <span class="glyphicon glyphicon-plus"></span>
+    </a>
+</p>
+
+@using (Html.BeginForm())
+            {
+    <p>
+        Find: @Html.TextBox("SearchString")
+        <button type="submit" class="btn btn-default" value="Search"><span class="glyphicon glyphicon-search"></span></button>
+        @Html.ActionLink("Reset Filter", "Index","Exams1", new { sortOrder = "name", searchString = "" }, new { @class = "btn btn-default" })
+
+
+    </p>
+
+}
+
+
+<div class="table-responsive">
+    <table class="table table-hover">
+
+        <thead>
+            <tr>
+                <th>
+                    <a>
+                        @Html.ActionLink(" Date ", "Index", new { sortOrder = "date", searchString = ViewBag.SearchString }@*,new { @class="glyphicon glyphicon-sort"}*@)
+                    </a>
+                </th>
+                <th>
+                    @Html.ActionLink(" Course Name ", "Index", new { sortOrder = "cnam", searchString = ViewBag.SearchString })
+                </th>
+                <th>
+                    @Html.ActionLink(" Student Name ", "Index", new { sortOrder = "snam", searchString = ViewBag.SearchString })
+                </th>
+                <th>
+                    @Html.ActionLink(" Grade ", "Index", new { sortOrder = "grad", searchString = ViewBag.SearchString })
+                </th>
+                <th>
+                    @Html.ActionLink(" Credits ", "Index", new { sortOrder = "cred", searchString = ViewBag.SearchString })
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StudentDetails.StudentFullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Grade)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Credits)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit","Exams1", new { id = item.ExamId }, new { @class = "btn btn-success" })
+                    @Html.ActionLink("Details", "Details", "Exams1", new { id = item.ExamId }, new { @class = "btn btn-primary" })
+                    @Html.ActionLink("Delete", "Delete", "Exams1", new { id = item.ExamId }, new { @class = "btn btn-danger" })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
+
+<div style="margin:20px 0">
+    Page @(Model.PageCount < Model.PageNumber ? 1 : Model.PageNumber) of @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("Index", "Exams1", new { page, searchString = ViewBag.SearchString }))
+</div>

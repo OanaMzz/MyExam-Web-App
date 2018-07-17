@@ -1,0 +1,17 @@
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Infrastructure\bin\Debug\MyExams.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Infrastructure\bin\Debug\MyExams.Infrastructure.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Infrastructure\obj\Debug\MyExams.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Infrastructure\obj\Debug\MyExams.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Infrastructure\obj\Debug\MyExams.Infrastructure.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Infrastructure\bin\Debug\MyExams.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Infrastructure\bin\Debug\MyExams.Infrastructure.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Infrastructure\obj\Debug\MyExams.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Infrastructure\obj\Debug\MyExams.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Infrastructure\obj\Debug\MyExams.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Infrastructure\obj\Debug\MyExams.Infrastructure.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Infrastructure\bin\Debug\MyExams.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Infrastructure\bin\Debug\MyExams.Infrastructure.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Infrastructure\obj\Debug\MyExams.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Infrastructure\obj\Debug\MyExams.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Infrastructure\obj\Debug\MyExams.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Infrastructure\obj\Debug\MyExams.Infrastructure.pdb

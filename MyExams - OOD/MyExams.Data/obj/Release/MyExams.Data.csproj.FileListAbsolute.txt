@@ -1,0 +1,11 @@
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Data\bin\Release\MyExams.Data.dll.config
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Data\bin\Release\MyExams.Data.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Data\bin\Release\MyExams.Data.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Data\bin\Release\EntityFramework.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Data\bin\Release\EntityFramework.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Data\obj\Release\MyExams.Data.csprojResolveAssemblyReference.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Data\obj\Release\MyExams.Data.csproj.CoreCompileInputs.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Data\obj\Release\MyExams.Data.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Data\obj\Release\MyExams.Data.pdb
