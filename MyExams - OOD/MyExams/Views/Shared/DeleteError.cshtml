@@ -1,0 +1,25 @@
+﻿@model MyExams.Models.ErrorObject
+
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="container">
+    <div style="height:100px">
+    </div>
+    <div class="description-container text-center align-center">
+        <div class="text-center">
+            <div class="col-md-10 col-md-offset-1  ">
+                <span class="glyphicon glyphicon-warning-sign text-danger"></span>
+                <h3 class="text-danger ">@Model.Message </h3>
+            </div>
+            <div class="col-md-10 col-md-offset-1   " style="height:30px">
+                @*<p class="glyphicon-exclamation-sign"style="color:red;" ></p>*@
+            </div>
+            <div class="col-md-10 col-md-offset-1">
+                @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-lg btn-primary" })
+                @Html.ActionLink(Model.Related, "Index", Model.Controller, null, new { @class = "btn btn-lg btn-info " })
+            </div>
+        </div>
+    </div>
+</div>

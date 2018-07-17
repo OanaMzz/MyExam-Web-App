@@ -1,0 +1,190 @@
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\MyExams.Repository.dll.config
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\MyExams.Repository.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\MyExams.Repository.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\MyExam.Dto.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\MyExams.Data.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\MyExam.Dto.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\MyExams.Data.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\MyExams.Data.dll.config
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\obj\Debug\MyExams.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\obj\Debug\MyExams.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\obj\Debug\MyExams.Repository.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\obj\Debug\MyExams.Repository.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\AutoMapper.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\AutoMapper.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\AutoMapper.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\MyExams.Contracts.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\MyExams.Contracts.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\MyExams.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\MyExams.Infrastructure.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\System.Web.Helpers.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\System.Web.Mvc.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\System.Web.Razor.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\System.Web.WebPages.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\System.Web.Helpers.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\System.Web.Mvc.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\System.Web.Razor.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\System.Web.WebPages.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExams.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\MyExams.Repository.dll.config
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\MyExams.Repository.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\MyExams.Repository.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\AutoMapper.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\MyExam.Dto.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\MyExams.Contracts.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\MyExams.Data.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\MyExams.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\System.Web.Helpers.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\System.Web.Mvc.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\System.Web.Razor.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\System.Web.WebPages.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\MyExam.Dto.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\MyExams.Contracts.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\MyExams.Data.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\MyExams.Data.dll.config
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\MyExams.Infrastructure.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\AutoMapper.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\AutoMapper.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\System.Web.Helpers.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\System.Web.Mvc.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\System.Web.Razor.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\System.Web.WebPages.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\obj\Debug\MyExams.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\obj\Debug\MyExams.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\obj\Debug\MyExams.Repository.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExams.Repository\obj\Debug\MyExams.Repository.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\MyExams.Repository.dll.config
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\MyExams.Repository.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\MyExams.Repository.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\AutoMapper.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\MyExam.Dto.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\MyExams.Contracts.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\MyExams.Data.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\MyExams.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\System.Web.Helpers.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\System.Web.Mvc.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\System.Web.Razor.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\System.Web.WebPages.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\MyExam.Dto.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\MyExams.Contracts.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\MyExams.Data.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\MyExams.Data.dll.config
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\MyExams.Infrastructure.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\AutoMapper.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\AutoMapper.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\System.Web.Helpers.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\System.Web.Mvc.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\System.Web.Razor.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\System.Web.WebPages.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\obj\Debug\MyExams.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\obj\Debug\MyExams.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\obj\Debug\MyExams.Repository.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Repository\obj\Debug\MyExams.Repository.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\MyExams.Repository.dll.config
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\MyExams.Repository.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\MyExams.Repository.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\AutoMapper.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\MyExam.Dto.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\MyExams.Contracts.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\MyExams.Data.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\MyExams.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\System.Web.Helpers.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\System.Web.Mvc.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\System.Web.Razor.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\System.Web.WebPages.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\MyExam.Dto.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\MyExams.Contracts.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\MyExams.Data.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\MyExams.Data.dll.config
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\MyExams.Infrastructure.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\AutoMapper.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\AutoMapper.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\System.Web.Helpers.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\System.Web.Mvc.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\System.Web.Razor.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\System.Web.WebPages.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\obj\Debug\MyExams.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\obj\Debug\MyExams.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\obj\Debug\MyExams.Repository.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD3\MyExams.Repository\obj\Debug\MyExams.Repository.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\obj\Debug\MyExams.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\obj\Debug\MyExams.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\obj\Debug\MyExams.Repository.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\obj\Debug\MyExams.Repository.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\MyExams.Repository.dll.config
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\MyExams.Repository.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\MyExams.Repository.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\AutoMapper.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\MyExam.Dto.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\MyExams.Contracts.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\MyExams.Data.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\MyExams.Infrastructure.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\System.Web.Helpers.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\System.Web.Mvc.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\System.Web.Razor.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\System.Web.WebPages.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\MyExam.Dto.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\MyExams.Contracts.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\MyExams.Data.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\MyExams.Data.dll.config
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\MyExams.Infrastructure.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\AutoMapper.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\AutoMapper.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\System.Web.Helpers.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\System.Web.Mvc.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\System.Web.Razor.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\System.Web.WebPages.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD4\MyExams.Repository\bin\Debug\System.Web.WebPages.Razor.xml
