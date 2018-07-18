@@ -1,6 +1,0 @@
-C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Infrastructure\bin\Release\MyExams.Infrastructure.dll
-C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Infrastructure\bin\Release\MyExams.Infrastructure.pdb
-C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Infrastructure\obj\Release\MyExams.Infrastructure.csprojResolveAssemblyReference.cache
-C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Infrastructure\obj\Release\MyExams.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Infrastructure\obj\Release\MyExams.Infrastructure.dll
-C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExams.Infrastructure\obj\Release\MyExams.Infrastructure.pdb
