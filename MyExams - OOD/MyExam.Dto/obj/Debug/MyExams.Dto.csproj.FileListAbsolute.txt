@@ -1,0 +1,16 @@
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExam.Dto\bin\Debug\MyExam.Dto.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExam.Dto\bin\Debug\MyExam.Dto.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExam.Dto\obj\Debug\MyExams.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExam.Dto\obj\Debug\MyExam.Dto.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD1\MyExam.Dto\obj\Debug\MyExam.Dto.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExam.Dto\bin\Debug\MyExam.Dto.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExam.Dto\bin\Debug\MyExam.Dto.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExam.Dto\obj\Debug\MyExams.Dto.csprojResolveAssemblyReference.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExam.Dto\obj\Debug\MyExams.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExam.Dto\obj\Debug\MyExam.Dto.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2\MyExam.Dto\obj\Debug\MyExam.Dto.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExam.Dto\bin\Debug\MyExam.Dto.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExam.Dto\bin\Debug\MyExam.Dto.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExam.Dto\obj\Debug\MyExams.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExam.Dto\obj\Debug\MyExam.Dto.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExam.Dto\obj\Debug\MyExam.Dto.pdb

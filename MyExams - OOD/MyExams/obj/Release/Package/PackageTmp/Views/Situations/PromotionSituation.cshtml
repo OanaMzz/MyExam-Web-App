@@ -1,0 +1,156 @@
+﻿@model MyExams.ViewModels.PromotionSituationVM
+
+@{
+    ViewBag.Title = "Situation";
+}
+<br /><br />
+<h2>Situation for @Model.Specialization @Model.YearOfStudy</h2>
+<br /><br />
+<hr />
+
+
+<div class="container">
+    <div class="row">
+
+        @{
+            if (Model.PromotionAverage == "-")
+            {
+                <div class="col-md-4 text-center">
+                    <div class="situation-info">
+                        <div class="content">
+                            <p class="title">
+                                @Html.DisplayNameFor(model => model.PromotionAverage)
+                            </p>
+                            <h1>
+                                @Html.DisplayFor(model => model.PromotionAverage)
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 text-center">
+                    <div class="situation-info">
+                        <div class="content">
+                            <p class="title">
+                                @Html.DisplayNameFor(model => model.HighestAverage)
+                            </p>
+                            <h1>
+                                @Html.DisplayFor(model => model.HighestAverage)
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+            }
+            else
+            {
+                <div class="col-md-4 text-center">
+                    <div class="situation-info">
+                        <div class="content">
+                            <p class="title">
+                                @Html.DisplayNameFor(model => model.PromotionAverage)
+                            </p>
+                            <h1 class="percentage">
+                                @Html.DisplayFor(model => model.PromotionAverage)
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 text-center">
+                    <div class="situation-info">
+                        <div class="content">
+                            <p class="title">
+                                @Html.DisplayNameFor(model => model.HighestAverage)
+                            </p>
+                            <h1 class="percentage">
+                                @Html.DisplayFor(model => model.HighestAverage)
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        <div class="col-md-4 text-center">
+            <div class="situation-info">
+                <div class="content">
+                    <p class="title">
+                        @Html.DisplayNameFor(model => model.Scholarships)
+                    </p>
+                    @{
+                        if (Model.Scholarships.Count > 0)
+                        {
+                            <ol>
+                                @foreach (var item in Model.Scholarships)
+                                {
+                                    <li class="text-left">@Html.DisplayFor(modelItem => item)</li>
+                                }
+                            </ol>
+                        }
+                        else
+                        {
+                            <h1>
+                                -
+                            </h1>
+                        }
+                    }
+
+                </div>
+            </div>
+            <br /> <br />
+        </div>
+
+
+        @{
+            <h2 class="tableTitle">Situation per Student</h2>
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.StudentSituationTable.First().Student.StudentFullName)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.StudentSituationTable.First().Average)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.StudentSituationTable.First().Credits)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.StudentSituationTable.First().ExamsToRetakeCount)
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.StudentSituationTable)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Student.StudentFullName)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Average)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Credits)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.ExamsToRetakeCount)
+                                </td>
+                                <td>
+                                    @Html.ActionLink("Student Situation", "StudentSituation", new { id = item.Student.StudentId }, new { @class = "btn btn-md btn-info" })
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+
+                </table>
+            </div>
+        }
+    </div>
+</div>
+
+<div style="height:100px; margin-top:10px;">
+    @Html.ActionLink("Back to Situations", "Search", null, new { @class = "btn btn-default" })
+</div>
+

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MyExamContext-Web.config Connection String" description="MyExamContext Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/MyExam.csdl|res://*/MyExam.ssdl|res://*/MyExam.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=myexam.database.windows.net;initial catalog=MyExamDB;persist security info=True;user id=myexam.user;password=1569NihilSineDio;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Oana\\Desktop\\MyExam\ redesign\\MyExams\ -\ OOD4\\MyExams\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MyExamContext']/@connectionString" />
+  </parameter>
+</parameters>

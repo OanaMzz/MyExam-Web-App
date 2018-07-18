@@ -1,0 +1,5 @@
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExam.Dto\bin\Release\MyExam.Dto.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExam.Dto\bin\Release\MyExam.Dto.pdb
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExam.Dto\obj\Release\MyExams.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExam.Dto\obj\Release\MyExam.Dto.dll
+C:\Users\Oana\Desktop\MyExam redesign\MyExams - OOD2 - Copy\MyExam.Dto\obj\Release\MyExam.Dto.pdb
