@@ -1,0 +1,71 @@
+﻿@model List<MyExams.ViewModels.ExamsOfStudentVM>
+
+@{
+
+    if (!Model.Any())
+    {
+        <br /> <br />
+        <h2 class="text-center">No Exams Taken</h2>
+    }
+    else
+    {
+        <br/>
+        <h2 class="tableTitle">Exams of Student</h2>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th class="sortable">
+                                    @Html.DisplayNameFor(model => model.First().Date)
+                                </th>
+                                <th class="sortable">
+                                    @Html.DisplayNameFor(model => model.First().Name)
+                                </th>
+                                <th class="sortable">
+                                    @Html.DisplayNameFor(model => model.First().Teacher.TeacherTitle)
+                                </th>
+                                <th class="sortable">
+                                    @Html.DisplayNameFor(model => model.First().Teacher.TeacherFullName)
+                                </th>
+                                <th class="sortable">
+                                    @Html.DisplayNameFor(model => model.First().Grade)
+                                </th>
+                                <th class="sortable">
+                                    @Html.DisplayNameFor(model => model.First().Credits)
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Date)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Name)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Teacher.TeacherTitle)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Teacher.TeacherFullName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Grade)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Credits)
+                                    </td>
+
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    }
+}

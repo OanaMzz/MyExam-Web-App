@@ -1,0 +1,56 @@
+﻿@model MyExams.ViewModels.EmailFormModel
+@{
+    ViewBag.Title = "Contact";
+}
+
+<div class="container">
+    <div class="row">
+        <br/><br />
+        <div class="col-md-8 col-md-offset-2 situation-info">
+            <h2>@ViewBag.Title</h2>
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+                <h4>Send your comments.</h4>
+                <hr />
+                <div class="form-group">
+                    @Html.LabelFor(m => m.FromName, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.FromName, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.FromName)
+                        <br />
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.FromEmail, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.FromEmail, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.FromEmail)
+                        <br />
+                    </div>
+                </div>
+               
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Message, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextAreaFor(m => m.Message, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Message)
+                        <br /><br />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" class="btn btn-danger btn-red-modified" value="Send" />
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+    <br />
+</div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

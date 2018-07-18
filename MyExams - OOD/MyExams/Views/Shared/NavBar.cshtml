@@ -1,0 +1,34 @@
+﻿
+
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="@Url.Action("Index", "Home")">
+                <img id="logo" src="~/Content/img/logo2.png" height="55 " alt="logo" />
+            </a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+
+
+                @*<li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Students" ? "active" : "")">@Html.ActionLink("Students", "Index", "Students")</li>*@
+                <li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Students1" ? "active" : "")">@Html.ActionLink("Students", "Index", "Students1")</li>
+                @*<li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Teachers" ? "active" : "")">@Html.ActionLink("Teachers", "Index", "Teachers")</li>*@
+                <li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Teachers1" ? "active" : "")">@Html.ActionLink("Teachers", "Index", "Teachers1")</li>
+                @*<li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Courses" ? "active" : "")">@Html.ActionLink("Courses", "Index", "Courses")</li>*@
+                <li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Courses1" ? "active" : "")">@Html.ActionLink("Courses", "Index", "Courses1")</li>
+                @*<li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Exams" ? "active" : "")">@Html.ActionLink("Exams", "Index", "Exams")</li>*@
+                <li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Exams1" ? "active" : "")">@Html.ActionLink("Exams", "Index", "Exams1")</li>
+                @*<li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "StudentSituations" ? "active" : "")">@Html.ActionLink("Situations", "Search", "StudentSituations")</li>*@
+                <li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Situations" ? "active" : "")">@Html.ActionLink("Situations", "Search", "Situations")</li>
+                <li class="@(ViewContext.RouteData.Values["Action"].ToString() == "About" ? "active" : "")">@Html.ActionLink("About", "About", "Home")</li>
+                <li class="@(ViewContext.RouteData.Values["Action"].ToString() == "Contact" ? "active" : "")">@Html.ActionLink("Contact", "Contact", "Home")</li>
+            </ul>
+        </div>
+    </div>
+</div>
